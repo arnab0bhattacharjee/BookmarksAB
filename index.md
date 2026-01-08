@@ -1,3 +1,2 @@
-# Bookmarks
 - [TryHackMe – Web Penetration Tester (HTB-Equivalent Path)](/WebPenetrationTester.md)
 - 
