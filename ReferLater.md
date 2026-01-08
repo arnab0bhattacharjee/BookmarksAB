@@ -1,0 +1,11 @@
+- https://www.cloudflare.com/learning/cdn/glossary/global-server-load-balancing-gslb/
+- https://infinitydomainhosting.com/kb/what-is-ip-stack/
+- https://docs.netskope.com/en/advanced-analytics
+- https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/cloud-scale-analytics/eslz-network-considerations-cross-region
+- https://dev.to/aws-builders/cross-region-transit-gateway-peering-in-aws-3oc4
+- https://jfrog.com/blog/2025-55182-and-2025-66478-react2shell-all-you-need-to-know/
+- https://www.microsoft.com/en-us/microsoft-365/roadmap?SilentAuth=1&rtc=1&filters=&searchterms=516032
+- https://www.microsoft.com/en-us/microsoft-365/roadmap?SilentAuth=1&rtc=1&filters=&searchterms=527832
+- https://www.microsoft.com/en-us/microsoft-365/roadmap?SilentAuth=1&rtc=1&filters=&searchterms=542188
+- https://www.microsoft.com/en-us/microsoft-365/roadmap?SilentAuth=1&rtc=1&filters=&searchterms=542190
+- https://www.microsoft.com/en-us/microsoft-365/roadmap?SilentAuth=1&rtc=1&filters=&searchterms=537276
